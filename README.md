@@ -5,5 +5,5 @@
 製作與Andorid Calculator相同功能的Calculator
 
 **限制**\
-Memeory Limit: ≤512KB
+Memeory Limit: ≤512KB\
 Time Limit: ≤100ms
